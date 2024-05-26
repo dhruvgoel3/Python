@@ -4,5 +4,6 @@
 # print(name)
 # print(classes)
 # print(rolpass)
-system = "jai shree ram \n jai shree hanuman "
-print(system)
+
+# system = "jai shree ram \n jai shree hanuman "
+# print(system)
